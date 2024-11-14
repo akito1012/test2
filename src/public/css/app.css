@@ -1,0 +1,9 @@
+.header{
+    max-width: 1230px;
+    margin: 10px 5px;
+}
+.header__item{
+    color: #ffd700;
+    font-style: italic;
+    font-size: 20px;
+}
