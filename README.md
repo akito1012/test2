@@ -25,3 +25,8 @@ php artisan db:seed
 ・php8.1.2
 ・laravel8.83.8
 ・mysql8.0.26
+ER図
+/home/akito/coachtech/laravel/test2/.drawio.png
+URL
+・開発環境：http://localhost/
+・phpMyAdmin:：http://localhost:8080/
