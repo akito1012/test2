@@ -20,3 +20,5 @@ Route::get('/', function () {
 });
 
 Route::get('/products', [ProductsController::class, 'index']);
+Route::get('/products/register', [ProductsController::class, 'register']);
+Route::get('/products', [ProductsController::class, 'create']);

@@ -1,0 +1,78 @@
+.detail{
+    max-width: 1230px;
+    width: 100%;
+    margin: 0 auto;
+}
+.detail__form{
+    margin: auto;
+    width: 80%;
+}
+.detail__nav{
+    width: 80%;
+}
+.nav__item{
+    display: inline;
+    color: aqua;
+}
+.float{
+    float: left;
+    width: 50%;
+}
+.img
+.select__img
+.error{
+    color: red;
+}
+.detail__content{
+    margin-right: 0;
+    margin-left: 50%;
+    text-align: left;
+}
+.input__inner
+.input__title{
+    width: 100%;
+}
+.input__item{
+    width: 100%;
+}
+.input__item-txt{
+    width: 100%;
+}
+.input__season{
+    width: 20px;
+    height: 20px;
+    margin-right: 10px;
+}
+label{
+    font-size: 20px;
+    margin-right: 50px;
+}
+.detail__textarea{
+    width: 100%;
+}
+.textarea__title{
+    width: 100%;
+}
+.textarea__item{
+    resize: vertical;
+    width: 100%;
+    height: 100px;
+    padding: 5px 10px;
+}
+.detail__button{
+    text-align: center;
+}
+.back__button{
+    padding: 10px 50px;
+    font-size: 20px;
+    border: none;
+    border-radius: 10px;
+}
+.keep__button{
+    padding: 10px 30px;
+    font-size: 20px;
+    margin-left: 10px;
+    background-color: orange;
+    border: none;
+    border-radius: 10px;
+}
