@@ -1,7 +1,11 @@
-MOGITATE(もぎたて)
-環境構築
-Dockerビルド
+#MOGITATE(もぎたて)
+
+##環境構築
+
+###Dockerビルド
+
 １．git clone git@github.com:akito1012/test2.git
+
 ２．DockerDesktopアプリを立ち上げる
 ３．docker-compose up -d --build
 Laravel環境構築
